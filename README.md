@@ -1,1 +1,3 @@
 # credit-card-default-prediction
+
+Credit card method is one of the popular payment methods. But there are some disadvantages like credit card defaults. The main aim of this project is to predict whether the customer is going to default in the coming month or not. Along with prediction, the features are also going to be analysed to understand which are the factors leading to default. The dataset containing over 30000 samples is pre-processed, and given as the input to the Generalized low rank model. The reduced dimension dataset is classified using supervised machine learning algorithms and the accuracy, recall and precision is calculated and compared.
